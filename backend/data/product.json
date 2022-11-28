@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Console PlayStation®5 + Horizon Forbidden West",
+        "price": "2456.45",
+        "description":"PlayStation®5: O console PS5™ oferece novas possibilidades de jogabilidade que você nunca imaginou. Reproduza jogos para PS5 e PS4 em Blu-ray Disc. Além disso, você também pode baixar jogos digitais para PS5 e PS4 pela PlayStation Store. Experimente o carregamento extremamente rápido do SSD de ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D. Além de uma geração totalmente nova de jogos incríveis PlayStation®.",
+        "ratings": 4.5,
+        "images": [],
+        "category":"Electronics",
+        "seller":"Sony",
+        "stock": 50,
+        "numberOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 11 (128 GB) (PRODUCT) RED",
+        "price": "3399.00",
+        "description":"Tela LCD Liquid Retina HD de 6,1 polegadas Resistente a água e pó (até 30 minutos à profundidade máxima de 2 metros, IP68) Sistema de câmara dupla de 12 MP (Ultra grande angular, Grande angular e Teleobjetiva); modo Noite, modo Retrato e vídeos em 4K a 60 fps",
+        "ratings": 5.0,
+        "images": [],
+        "category":"Electronics",
+        "seller":"Apple",
+        "stock": 150,
+        "numberOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "O Último Desejo (THE WITCHER: A Saga do Bruxo Geralt de Rívia Livro 1)",
+        "price": "28.45",
+        "description":"O irônico, cínico e descrente Geralt de Rívia perambula de povoado em povoado oferecendo seus serviços. Em seu caminho vai driblar intrigas, escolher o mal menor, negociar preços, alcançar o confim do mundo e realizar seu último desejo: assim começam as aventuras do bruxo Geralt de Rívia.",
+        "ratings": 2.8,
+        "images": [],
+        "category":"Books",
+        "seller":"Kindle",
+        "stock": 542,
+        "numberOfReviews": 9,
+        "reviews": []
+    }
+]
