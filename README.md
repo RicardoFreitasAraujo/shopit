@@ -6,4 +6,5 @@
 
 <br/>
 Tips:
-
+<br/>
+<img src="mongoose - query.jpg"/>
